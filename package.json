@@ -1,0 +1,14 @@
+{
+  "name": "hheuapp",
+  "version": "1.0.0",
+  "description": "HHEUs Test App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HHEU",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
